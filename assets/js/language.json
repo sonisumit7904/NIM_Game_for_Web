@@ -1,0 +1,19 @@
+{
+  "en": {
+    "toastNewGame": "New game started.",
+    "youFirst": "You start first.",
+    "computerFirst": "Computer starts first. Please click 'Pass Turn' button.",
+    "youWin": "You win!",
+    "computerWin": "Computer win. Press 'New Game' button to restart.",
+    "rowSelected": "{{row}} row selected. Click as many times as you want to take a coin and press the 'Pass Turn' button.",
+    "rowCanNotTake": "You can't take any more coins on the {{row}} row. Please press the turn-over button below.",
+    "wrongRow": "Wrong row selected. Please take coins from the {{row}} row only.",
+    "yourTurn": "Your turn. Select the row you want to take the coin from and click on it. Once selected, it cannot be changed.",
+    "computerNotStarted": "Computer has not started. Please click 'Pass Turn' button.",
+    "youAreNotTaked": "You haven't taken your coins yet.<br>You must take at least one coin from one of the many rows.",
+    "wrongKey": "Wrong key pressed. There are currently 3 coin rows in the game.",
+    "optionSaved": "Option saved successfully.",
+    "browserCanNotSaveLoadOption": "In this browser, you cannot save or load options",
+    "optionLoaded": "Option loaded successfully."
+  }
+}
